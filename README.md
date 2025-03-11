@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome to my GitHub Profile! 🚀 I'm Shrinivas, a DevOps practitioner with a passion for optimizing software development and operations. My expertise spans cloud infrastructure, Kubernetes, and Docker, enabling me to create efficient and scalable environments. About Me DevOps Practitioner: Implementing best practices to streamline the software development lifecycle. CI/CD Specialist: Designing robust pipelines for automated builds, tests, and deployments. Cloud Enthusiast: Extensive experience with AWS, Azure, and Google Cloud. Container Pro: Deep understanding of Kubernetes, Docker, and Helm. Automation Aficionado: Leveraging tools like Ansible, Terraform, and Jenkins to automate tasks. Get in Touch Let's collaborate on exciting projects! Reach out via: Email: \[Your Email\] LinkedIn: \[Your LinkedIn Profile\] Twitter: \[Your Twitter Handle\]
 
-* 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [shrij34.io](http://shrij34.io)
-* ✉️  You can contact me at [shrij34@gmail.com](mailto:shrij34@gmail.com)
-* 🧠  I'm learning CKA
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [shrij**.com](http://shrij**.com)
+* ✉️  You can contact me at [shrij**@gmail.com](mailto:shrij**@gmail.com)
+
 
 <a href="https://www.github.com/shrij34" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shrij34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
